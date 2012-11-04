@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-Vitya napisal
-
-
 namespace Laba1diskret
 {
     static class Program
